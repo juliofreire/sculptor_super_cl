@@ -1,4 +1,4 @@
 # sculptor_super_cl
 
-Júlio Freire Peixoto \n
+Júlio Freire Peixoto </p>
 Matheus Carvalho da Silva

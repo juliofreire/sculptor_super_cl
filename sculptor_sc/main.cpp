@@ -12,7 +12,7 @@ int main(){
     interpreter prsr;
 
     std::vector<FiguraGeometrica*> figure;
-    figure = prsr.parse("D:/Documents/programacao_avancada/sculptor_sc/pe.txt");
+    figure = prsr.parse("D:/Documents/programacao_avancada/sculptor_super_cl/sculptor_sc/pe.txt");
 
     s = new Sculptor(prsr.getx(), prsr.gety(), prsr.getz());
 
